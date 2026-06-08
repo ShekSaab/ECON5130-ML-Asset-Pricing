@@ -1,6 +1,6 @@
-# Empirical Asset Pricing via Machine Learning — A Replication Study
+# Empirical Asset Pricing via Machine Learning: A Replication Study
 
-**ECON5130: Machine Learning in Finance — Group 11**
+**ECON5130: Machine Learning in Finance: Group 11**
 
 Replication of [Gu, Kelly, and Xiu (2020)](https://doi.org/10.1093/rfs/hhaa009), *The Review of Financial Studies*, 33(5), 2223–2273.
 
